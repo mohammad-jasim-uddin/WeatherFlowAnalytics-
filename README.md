@@ -38,7 +38,6 @@ streamlit run app.py
 - SQL summary tables
 - Raw data explorer
 
-## CV Description
 
 **WeatherFlow Analytics — Multi-City End-to-End ETL & Dashboard Project**  
 Built a full ETL pipeline using Python, Pandas, SQL, SQLite, and Streamlit. Extracted multi-city weather data from Open-Meteo API across Europe, Asia, Africa, North America, South America, and Oceania. Cleaned and transformed JSON data, stored city, country, and continent-level records in a relational database, wrote SQL queries for KPIs, and created an interactive dashboard to compare temperature, rainfall, and wind-speed trends across global cities.
