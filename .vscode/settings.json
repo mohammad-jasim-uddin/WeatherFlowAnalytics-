@@ -1,0 +1,5 @@
+{
+    "powerquery.client.additionalSymbolsDirectories": [
+        "/Users/user/Desktop/projects/weatherflow-analytics-multicity-src/.vscode/excel-pq-symbols"
+    ]
+}
